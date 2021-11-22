@@ -5,13 +5,16 @@ body {
 }
 .wrapper {
     margin: 0 auto;  
-    max-width: 980px;  
+    max-width: 980px; 
+    border: solid crimson;
+
   }
 .search {
     display: flex;
     flex-direction: row;
     align-items: center;
     padding: 0 12px 0 12px;
+    border: solid beige;
 }
 .navigation {
   display: flex;
