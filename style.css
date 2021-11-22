@@ -21,5 +21,10 @@ body {
 }
 ul {
   list-style-type: none;
-  
+}
+a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+
 }
