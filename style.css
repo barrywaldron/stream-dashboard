@@ -25,11 +25,12 @@ body {
 ul {
   list-style-type: none;
   padding: 10px;
+  border: solid #0000ff;
 }
 a {
   color: #fff;
   text-decoration: none;
   padding: 10px 20px;
-  border:solid #0000ff;
+  
 
 }
