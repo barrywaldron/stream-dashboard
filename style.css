@@ -9,6 +9,10 @@ body {
     border: solid crimson;
 
   }
+  .header {
+    display: flex;
+    align-items: center;
+  }
 .search {
     display: flex;
     flex-direction: row;
@@ -35,5 +39,5 @@ a {
   font-size: 1.5rem;
 }
 li {
-  padding-bottom: 10px;
+  padding-bottom: 20px;
 }
