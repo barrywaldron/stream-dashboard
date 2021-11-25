@@ -9,9 +9,8 @@ body {
     border: solid crimson;
 
   }
-  .header {
-    display: flex;
-    align-items: center;
+  
+   
   }
 .search {
     display: flex;
