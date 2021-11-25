@@ -8,15 +8,15 @@ body {
     max-width: 980px; 
     border: solid crimson;
 
-  }
-  
+  } 
    
-  }
+  
 .search {
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 12px 12px 12px 12px;
+    padding: 20px
+    px 12px 12px 12px;
     border: solid beige;
     
 }
