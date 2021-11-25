@@ -16,7 +16,8 @@ body {
 .search {  
     display: flex;
     flex-direction: row;
-    align-items: center;    
+    align-items: center;
+    background: #bdc2c4;
     padding: 20px
     px 12px 12px 12px;
     border: solid beige;
