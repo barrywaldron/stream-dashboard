@@ -32,7 +32,8 @@ body {
 ul {
   list-style-type: none;
   padding: 10px;
-  border: solid #0000ff;
+  border: solid #808080;
+  background:#808080;
 }
 a {
   color: #fff;
