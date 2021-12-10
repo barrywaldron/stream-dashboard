@@ -9,18 +9,25 @@ body {
     border: solid crimson;
 
   } 
-.header {
-  padding: 20px;
+  .header {
+    padding: 20px;
 }   
   
 .search {  
+    position: relative;
+    border: 1px solid #2b383f;
+    min-width: 300px;
+    max-width: 500px;
     border-color: #4f5e65;
     box-shadow: none;
     background: transparent;
-    background-color: #2b383f;
+    background-color: #2b383f; 
+    padding: 12px 20px; 
+    height: 40px;    
     
-    
-    
+}
+input[ type=text] {
+  background-color: #2b383f;
 }
 .navigation {
   display: flex;
