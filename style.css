@@ -15,12 +15,11 @@ body {
   
 .search {  
     position: relative;
-    border-radius: 50%;
-    border: 1px solid #2b383f;
+    border-radius: 25px;
+    border: 1px solid #4f5e65;
     min-width: 300px;
-    max-width: 500px;
-    border-color: #4f5e65;    
-    box-shadow: none;
+    max-width: 500px;        
+    
     background: transparent;
     background-color: #2b383f; 
     padding: 12px 20px; 
