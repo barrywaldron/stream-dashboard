@@ -9,6 +9,12 @@ body {
     border: solid crimson;
 
   } 
+.header {
+  background: #0000ff;
+  display: flex;
+  justify-content: space-between;
+  
+}  
   
   
   
