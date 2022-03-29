@@ -17,11 +17,12 @@ body {
   
 }  
 .product {
-  border: #bdc2c4;
+  
   
 }
 .product_detail {
- font-size: 1.5rem;
+ font-size: 2.5rem;
+ border: solid #bdc2c4;
  
 }
   
